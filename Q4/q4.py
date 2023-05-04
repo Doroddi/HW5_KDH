@@ -30,6 +30,6 @@ if __name__ == "__main__":
     
         print("Busiest Station: {0} ({1})\n".format(stationmx[i-1], mx[i-1]))
 
-        print("Least Station: {0} ({1})\n".format(stationmn[i-1], mn[i-1]))
+        print("Least used Station: {0} ({1})\n".format(stationmn[i-1], mn[i-1]))
     
     f.close()
